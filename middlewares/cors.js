@@ -3,7 +3,8 @@ const allowedCors = [
     'https://students-projects.ru',
     'localhost:3000',
     'localhost:3001',
-    'https://gigachad-pindie.nomoredomainswork.ru'
+    'https://gigachad-pindie.nomoredomainswork.ru',
+    'https://sigma-pindie.nomoredomainswork.ru'
   ];
 
 function cors(req, res, next) {
